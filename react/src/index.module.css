@@ -1,0 +1,66 @@
+h1 {
+  color: blue;
+}
+
+.card {
+  border: 1px solid pink;
+  width: 500px;
+  height: 50px;
+  background-color: pink;
+}
+
+.close {
+  float: right;
+}
+
+.card.reverse {
+  border: 2px solid hotpink;
+  width: 500px;
+  height: 50px;
+  background-color: khaki;
+}
+
+.card-description {
+  padding: 10px;
+}
+
+.card-count {
+  float: left;
+  top: 10px;
+}
+
+.divclass {
+  border: 2px solid black;
+}
+
+.button {
+  border: 1px solid red;
+  width: 200px;
+  height: 30px;
+  border-radius: 10px;
+  background: gold;
+}
+
+.button:hover {
+  color:rgb(42, 165, 99);
+  font-style: italic;
+  font-weight: bold;
+}
+
+.header {
+  background: black;
+}
+
+.header>ul {
+  height: 50px;
+}
+
+.header>ul>li {
+  padding: 10px;
+  text-decoration: none;
+  float: left;
+}
+
+.header>ul>li a {
+  color: #fff;
+}

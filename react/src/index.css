@@ -1,0 +1,34 @@
+h1 {
+  color: blue;
+}
+
+.card {
+  border: 1px solid pink;
+  width: 500px;
+  height: 50px;
+  background-color: pink;
+}
+
+.close {
+  float: right;
+}
+
+.card.reverse {
+  border: 2px solid hotpink;
+  width: 500px;
+  height: 50px;
+  background-color: khaki;
+}
+
+.card-description {
+  padding: 10px;
+}
+
+.card-count {
+  float: left;
+  top: 10px;
+}
+
+.divclass {
+  border: 2px solid black;
+}
